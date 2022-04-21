@@ -5,7 +5,8 @@ python program for student attendance portal
 
 
 
-print("~Studence Attendace Portal~")
+print("~Studence Attendace Portal~")![5](https://user-images.githubusercontent.com/102748690/164361779-fffa2b90-927b-497c-98c6-d555aa627225.jpg)
+
 
 while(True):
     print('Choose one of the following Operation:-\n'
