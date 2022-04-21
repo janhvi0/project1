@@ -1,8 +1,11 @@
 # project1
 python program for student attendance portal
 # STUDENT ATTENDANCE PORTAL------ 
-print("~Studence Attendace Portal~")
 
+
+
+
+print("~Studence Attendace Portal~")
 while(True):
     print('Choose one of the following Operation:-\n'
           '1. Give Attendance\n'
@@ -16,7 +19,6 @@ while(True):
         if menu == 'no':
             print('ThankYou!!')
             break
-            
         elif choise == '2':
         list=[['janhvi','111'],['kim','112'],['park','113'],['jeon','114'],['min','115'],['jung','116']]
         sname=input('Enter student name:-')
